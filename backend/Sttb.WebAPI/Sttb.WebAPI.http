@@ -1,0 +1,6 @@
+@Sttb.WebAPI_HostAddress = http://localhost:5124
+
+GET {{Sttb.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
